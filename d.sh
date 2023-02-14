@@ -8,5 +8,5 @@ if [ $1 -ge 0 -a $1 -le 10 ]; then
         echo "La nota es un sobresalinete."
     fi
 else
-    echo "la nota suministrada debe de estar entre el 0 y el 10"
+    echo "La nota suministrada debe de estar entre el 0 y el 10"
 fi
